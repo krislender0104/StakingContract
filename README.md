@@ -1,1 +1,2 @@
-# StakingContract
+# RockPaperScissorsContract
+Contract for RockPaperScissors game
